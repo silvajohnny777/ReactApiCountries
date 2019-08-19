@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactApiCountries/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ReactApiCountries/static/js/main.59d30579.chunk.js",
-    "main.js.map": "/ReactApiCountries/static/js/main.59d30579.chunk.js.map",
+    "main.css": "/ReactApiCountries/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/ReactApiCountries/static/js/main.c56ad396.chunk.js",
+    "main.js.map": "/ReactApiCountries/static/js/main.c56ad396.chunk.js.map",
     "runtime~main.js": "/ReactApiCountries/static/js/runtime~main.774dc77a.js",
     "runtime~main.js.map": "/ReactApiCountries/static/js/runtime~main.774dc77a.js.map",
-    "static/js/2.9fcca981.chunk.js": "/ReactApiCountries/static/js/2.9fcca981.chunk.js",
-    "static/js/2.9fcca981.chunk.js.map": "/ReactApiCountries/static/js/2.9fcca981.chunk.js.map",
+    "static/js/2.85930760.chunk.js": "/ReactApiCountries/static/js/2.85930760.chunk.js",
+    "static/js/2.85930760.chunk.js.map": "/ReactApiCountries/static/js/2.85930760.chunk.js.map",
     "index.html": "/ReactApiCountries/index.html",
-    "precache-manifest.78dcf875330848ba062636a35f825b7e.js": "/ReactApiCountries/precache-manifest.78dcf875330848ba062636a35f825b7e.js",
+    "precache-manifest.7b0330485a00d79a22f010448b7e48a6.js": "/ReactApiCountries/precache-manifest.7b0330485a00d79a22f010448b7e48a6.js",
     "service-worker.js": "/ReactApiCountries/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/ReactApiCountries/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/ReactApiCountries/static/media/logo.5d5d9eef.svg"
+    "static/css/main.8ef63b32.chunk.css.map": "/ReactApiCountries/static/css/main.8ef63b32.chunk.css.map"
   }
 }
